@@ -13,10 +13,7 @@ This is the first homework of the UW coding Bootcamp. The purpose of the homewor
 7. Commented in the style sheet and followed the third process to add all the changes to the repository both local and remote.
 
 # screenshoots of the project
-![header section screenshot](/Assets/images/header.png)
-![main section screenshot](/Assets/images/main.png)
-![foooter and aside section screenshot](/Assets/images/footer-and-aside.png)
-![css comments screenshot](/Assets/images/comment.png)
+![webpage screenshot](/Assets/images/bongomin256.github.io_html-semantic_.png)
 
 # Link.
 This is the link to deploy the application: https://bongomin256.github.io/html-semantic
